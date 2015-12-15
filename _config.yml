@@ -3,6 +3,8 @@
 # 2. config.build.yml
 # 3. config.yml
 
+donorbox_campaign_name: save-the-world
+donorboxcampaignname: save-the-world
 name: test
 description: Webhosting.coop Foundation
 author:
@@ -35,3 +37,4 @@ markdown: kramdown
 #     coderay_css: style
 
 highlighter: pygments
+
