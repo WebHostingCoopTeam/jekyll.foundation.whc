@@ -10,12 +10,11 @@ tags:
   - proseio
 ---
 
-
-![](/images/image00.png)
-
-# SAVE THE WORLD
-
-Sponsor a nonprofit's Information Technology
+<div style="text-align:center">
+<img src="/images/image00.png"></img>
+<h1><strong>SAVE THE WORLD</strong></h1>
+<h2>Sponsor a nonprofit's Information Technology</h2>
+</div>
 
 Looking for year end tax deductible giving options?  We have a choice that will allow you to support causes you care about.  
 
