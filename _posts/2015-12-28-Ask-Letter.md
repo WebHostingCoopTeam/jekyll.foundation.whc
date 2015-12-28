@@ -59,4 +59,6 @@ Here's where we stand:
 
 [IRS’s online tool](https://apps.irs.gov/app/eos/pub78Search.do?ein1=46-2953237&names=&city=&state=All...&country=US&deductibility=all&dispatchMethod=searchCharities&submitName=Search)
 
-<h6><sub><sup>The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at http://foundation.webhosting.coop/</sup></sub><h6>
+
+______________________________________________________________________________
+The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at http://foundation.webhosting.coop/
