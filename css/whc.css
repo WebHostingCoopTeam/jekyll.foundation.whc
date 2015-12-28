@@ -23,3 +23,30 @@
      font-size: large;
      font-weight: bold;
 }
+.sharediv {
+    text-align: center;
+    background: #FFF;
+    color: #000;
+    padding: 8px 15px;
+    border-radius: 5px;
+
+    a {
+        font-weight: 700;
+        color: #000;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+      }
+  }
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
