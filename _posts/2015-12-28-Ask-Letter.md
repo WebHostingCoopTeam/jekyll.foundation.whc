@@ -12,6 +12,7 @@ tags:
 
 <div style="text-align:center">
 <img src="/images/image00.png"></img>
+<br>
 <h1><strong>SAVE THE WORLD</strong></h1>
 <h2>Sponsor a nonprofit's Information Technology</h2>
 </div>
