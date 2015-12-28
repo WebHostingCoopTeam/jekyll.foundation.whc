@@ -1,4 +1,4 @@
 ---
-    title: Webhosting.coop Foundation - Free Website Training Classes
-    layout: contact 
+    title: About the Webhosting.coop Foundation
+    layout: contact
 ---
