@@ -3,6 +3,7 @@ layout: post
 title: Ask Letter 
 published: true
 disqus: true
+title_hidden: true
 fbcomments: false
 category: jekyll
 tags: 
@@ -15,6 +16,7 @@ tags:
 <hr>
 <h1><strong>SAVE THE WORLD</strong></h1>
 <h2>Sponsor a nonprofit's Information Technology</h2>
+<hr>
 </div>
 
 Looking for year end tax deductible giving options?  We have a choice that will allow you to support causes you care about.  
