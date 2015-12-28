@@ -1,0 +1,17 @@
+---
+layout: news 
+---
+<!-- <div class="content full-bleed intro">
+  Welcome to my homepage!!1
+</div> -->
+<section id="posts" class="posts section">
+</section>
+<div class="posts">
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+</div>
