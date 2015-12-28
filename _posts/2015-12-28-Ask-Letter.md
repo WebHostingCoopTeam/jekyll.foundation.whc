@@ -54,9 +54,8 @@ http://cullinanelaw.com/year-end-giving-how-do-charitable-donations-affect-my-ta
 
 Here's where we stand:
 
-Charity Navigator  http://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462953237#.Vn9U_SCgq00
-Guidestar    http://www.guidestar.org/organizations/46-2953237/webhosting-coop-foundation.aspx#financials
-IRS’s online tool   https://apps.irs.gov/app/eos/pub78Search.do?ein1=46-2953237&names=&city=&state=All...&country=US&deductibility=all&dispatchMethod=searchCharities&submitName=Search
-Better Business Bureau Wise Giving Alliance
+[Charity Navigator](http://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462953237#.Vn9U_SCgq00)
+[Guidestar](http://www.guidestar.org/organizations/46-2953237/webhosting-coop-foundation.aspx#financials)
+[IRS’s online tool](https://apps.irs.gov/app/eos/pub78Search.do?ein1=46-2953237&names=&city=&state=All...&country=US&deductibility=all&dispatchMethod=searchCharities&submitName=Search)
 
-<sub><sup>The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at http://foundation.webhosting.coop/</sup></sub>
+<h6><sub><sup>The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at http://foundation.webhosting.coop/</sup></sub><h6>
