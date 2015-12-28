@@ -1,17 +1,43 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   {% include whc-head.html %}
-    <body class="one-page" data-target=".single-menu" data-spy="scroll" data-offset="200">
-        <div class="body">
-        {% include whc-header.html %}
-            <div role="main" class="main" id="home">
-                <div id="content" class="content full">
-                    {% include whc-give.html %}
-                    {% include whc-donate.html %}
-                </div>
-            </div>
-        </div>
-    </body>
-      {% include whc-footer.html %}
-      {% include whc-script-footer.html %}
+{% include whc-header.html %}
+<body class="one-page" data-target=".single-menu" data-spy="scroll" data-offset="200">
+<div class="body">
+  <div role="main" class="main" id="home">
+    <div id="content" class="content full">
+{% include whc-give.html %}
+<div class="container">
+	<div class="post single">
+	  {% unless page.title_hidden %}
+	    <h1>{{ page.title }}</h1>
+	    <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
+	      {{ page.date | date: "%b %d, %Y" }}
+	    </info>
+	    {% endunless %}
+	    <div class="body posts">{{ content }}</div>
+	   <!-- <div class="post single"></div> -->
+	</div> 
+  <!-- <div class="content"></div> -->
+    <!-- <div class="breaker"></div> -->
+    <div class="breaker"></div>
+    <!-- <info class="after">
+      <div class="fb-like" data-href="http://rsms.me{{ page.url }}" data-send="false" data-width="550" data-show-faces="false" data-font="arial"></div>
+    </info> -->
+
+<p id="post-meta">{{ tags_content }}</p>
+{% include whc-donate.html %}
+{% include share.html %}
+{% include disqus.html %}
+</div>
+  </div> 
+</div> 
+
+
+</div>
+</body>
+{% include socialicons.html %}
+{% include googleanalytics.html %}
+{% include whc-footer.html %}
+{% include whc-script-footer.html %}
 </html>

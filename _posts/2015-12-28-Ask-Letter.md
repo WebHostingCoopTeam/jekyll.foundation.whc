@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Ask Letter
+layout: donate 
+title: Give to the Webhosting.coop Foundation 
 published: true
 disqus: true
 title_hidden: true
@@ -37,6 +37,8 @@ How you can help:
 
 Make a tax-deductible donation on our website – [foundation.webhosting.coop/donate](http://foundation.webhosting.coop/donate)
 
+                    {% include whc-donate.html %}
+
 
 or mail checks to:
 
@@ -47,11 +49,11 @@ or mail checks to:
 Share this information with friends, family and nonprofits you care about
 Have questions about what we are up to currently – visit our website here or contact us at contact@webhosting.coop
 
-Not sure about using this link – as we aren't up on all the pages she suggests checking.
+We want to help other non-profit organizations with these fund raising efforts.  A big part of this is being transparent and making sure that other organizations can corroborate your status.  We are quickly trying to cover all the bases lined out by Mollie Culinane in her excelllent post here:
 
 http://cullinanelaw.com/year-end-giving-how-do-charitable-donations-affect-my-taxes/
 
-Here's where we stand:
+Here's where we stand so far:
 
 [Charity Navigator](http://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462953237#.Vn9U_SCgq00)
 
@@ -59,6 +61,7 @@ Here's where we stand:
 
 [IRS’s online tool](https://apps.irs.gov/app/eos/pub78Search.do?ein1=46-2953237&names=&city=&state=All...&country=US&deductibility=all&dispatchMethod=searchCharities&submitName=Search)
 
+Help us on our journey to navigate these waters, so that we may help others do the same!  Happy Holidays to everyone!
 
 ______________________________________________________________________________
 
