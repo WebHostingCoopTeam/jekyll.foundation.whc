@@ -61,4 +61,4 @@ Here's where we stand:
 
 
 ______________________________________________________________________________
-The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at http://foundation.webhosting.coop/
+_The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at our [website](http://foundation.webhosting.coop/) _
