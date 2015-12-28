@@ -11,8 +11,7 @@ When you donate to [foundation.webhosting.coop/donate](http://foundation.webhost
 
 How you can help:
 
-Make a tax-deductible donation on our website – [foundation.webhosting.coop/donate](http://foundation.webhosting.coop/donate)
-
+Make a tax-deductible donation right here on our website – you'll find both a strip donation box and a paypal donate button
 
 or mail checks to:
 
@@ -20,6 +19,4 @@ or mail checks to:
 	1105 W Oltorf St, Suite 110
 	Austin, Texas 78704
 
-______________________________________________________________________________
-
-The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at our [website](http://foundation.webhosting.coop/) 
+feel free to use whichever method you prefer 

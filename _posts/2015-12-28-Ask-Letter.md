@@ -1,5 +1,5 @@
 ---
-layout: donate 
+layout: post 
 title: Give to the Webhosting.coop Foundation 
 published: true
 disqus: true
@@ -38,7 +38,6 @@ How you can help:
 
 Make a tax-deductible donation on our website – [foundation.webhosting.coop/donate](http://foundation.webhosting.coop/donate)
 
-                    {% include whc-donate.html %}
 
 
 or mail checks to:
@@ -63,6 +62,3 @@ Here's where we stand so far:
 
 Help us on our journey to navigate these waters, so that we may help others do the same!  Happy Holidays to everyone!
 
-______________________________________________________________________________
-
-The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at our [website](http://foundation.webhosting.coop/)
