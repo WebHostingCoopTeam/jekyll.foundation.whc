@@ -5,7 +5,9 @@
 
 donorbox_campaign_name: save-the-world
 donorboxcampaignname: save-the-world
+disqus_id: foundationwebhostingcoop
 name: test
+org_site: foundation.webhosting.coop 
 description: Webhosting.coop Foundation
 author:
   name: Josh Cox
