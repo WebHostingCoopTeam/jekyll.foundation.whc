@@ -2,7 +2,7 @@
 layout: donate 
 title: Donate 
 published: true
-disqus: true
+disqus: false 
 title_hidden: true
 fbcomments: false
 ---
