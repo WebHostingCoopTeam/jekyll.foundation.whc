@@ -14,7 +14,7 @@ tags:
 <body class="c13">
 <p class="c6 c3"><span style=
 "overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 402.50px; height: 113.62px;">
-<img alt="webhosting.coop-foundation.png" src="images/image00.png"
+<img alt="webhosting.coop-foundation.png" src="/images/image00.png"
 style=
 "width: 402.50px; height: 113.62px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
 title=""></span></p>
