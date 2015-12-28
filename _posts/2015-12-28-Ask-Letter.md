@@ -5,10 +5,11 @@ published: true
 disqus: true
 title_hidden: true
 fbcomments: false
-category: jekyll
+category: foundation 
+permalink: give.html
 tags: 
-  - jekyll
-  - proseio
+  - whc 
+  - nonprofit 
 ---
 
 <div style="text-align:center">
