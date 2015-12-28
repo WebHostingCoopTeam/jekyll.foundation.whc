@@ -13,6 +13,7 @@ tags:
 ---
 
 
+
 <div style="text-align:center">
 <img src="/images/image00.png"></img>
 <hr>
@@ -49,9 +50,8 @@ or mail checks to:
 Share this information with friends, family and nonprofits you care about
 Have questions about what we are up to currently – visit our website here or contact us at contact@webhosting.coop
 
-We want to help other non-profit organizations with these fund raising efforts.  A big part of this is being transparent and making sure that other organizations can corroborate your status.  We are quickly trying to cover all the bases lined out by Mollie Culinane in her excelllent post here:
 
-http://cullinanelaw.com/year-end-giving-how-do-charitable-donations-affect-my-taxes/
+Do you have questions about nonprofit donations and tax benefits? We had many questions of our own during the inception of the foundation. With that said, we are genuinely grateful for the help of the [Cullinane Law Group](http://cullinanelaw.com). Their amazing legal team helped get the foundation off the ground in 2013. Two years later we find that we are constantly referencing and sharing their words of nonprofit wisdom. Mollie put together an awesome guide to cover [Year-End Giving – How Do Charitable Donations Affect My Taxes?](http://cullinanelaw.com/year-end-giving-how-do-charitable-donations-affect-my-taxes)  We want to help other non-profit organizations with these fund raising efforts.  A big part of this is being transparent and making sure that other organizations can corroborate your status.  We are quickly trying to cover all the bases lined out by Mollie Culinane in her excelllent post.
 
 Here's where we stand so far:
 
@@ -65,4 +65,4 @@ Help us on our journey to navigate these waters, so that we may help others do t
 
 ______________________________________________________________________________
 
-The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at our [website](http://foundation.webhosting.coop/) 
+The Webhosting.coop Foundation is a non-profit 501(c)3 charity. All donations to the Foundation are tax deductible to the fullest extent allowable by law. You can find more information about the Foundation at our [website](http://foundation.webhosting.coop/)
