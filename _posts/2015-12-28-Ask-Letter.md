@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Ask Letter 
+title: Ask Letter
 published: true
 disqus: true
 title_hidden: true
 fbcomments: false
-category: foundation 
+category: foundation
 permalink: give.html
 tags: 
-  - whc 
-  - nonprofit 
+  - whc
+  - nonprofit
 ---
+
 
 <div style="text-align:center">
 <img src="/images/image00.png"></img>
@@ -30,7 +31,7 @@ To provide education and technological services to individuals and organizations
 
 ______________________________________________________________________________
 
-When you donate to [foundation.webhosting.coop/donate](http://foundation.webhosting.coop/donate) you give organizations that do the charitable work you support.  Many nonprofit organizations give far too much money to Information Technology (building websites, hosting them, maintaining them, social presences, email lists, cloud storage, onsite storage, security, the list goes on and on) in turn taking away necessary funds to give to their actual mission.  
+When you donate to [foundation.webhosting.coop/donate](http://foundation.webhosting.coop/donate) you give to organizations that do the charitable work you support.  Many nonprofit organizations give far too much money to Information Technology (building websites, hosting them, maintaining them, social presences, email lists, cloud storage, onsite storage, security, the list goes on and on) in turn taking away necessary funds to give to their actual mission.  
 
 How you can help:
 
