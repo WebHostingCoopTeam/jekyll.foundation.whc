@@ -6,44 +6,12 @@
         {% include whc-header.html %}
             <div role="main" class="main" id="home">
                 <div id="content" class="content full">
-                    {% include whc-slider.html %}
-                    {% include whc-services.html %}
-                <div class="post single">
-  {% unless page.title_hidden %}
-    <h1>{{ page.title }}</h1>
-    <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
-      {{ page.date | date: "%b %d, %Y" }}
-    </info>
-    {% endunless %}
-    <div class="body posts">{{ content }}</div>
-   <!-- <div class="post single"></div> -->
-   </div> 
-  <!-- <div class="content"></div> -->
-  </div> 
-    <!-- <div class="breaker"></div> -->
-    <div class="breaker"></div>
-    <!-- <info class="after">
-<div class="fb-like" data-href="http://rsms.me{{ page.url }}" data-send="false" data-width="550" data-show-faces="false" data-font="arial"></div>
-    </info> -->
-
-<p id="post-meta">{{ tags_content }}</p>
-
-    {% include share.html %}
-    {% if page.fbcomments %}
-      <hr/>
-      <h4>Comments</h4>
-      <div class="fb-comments" data-href="http://joshuacox.github.io{{ page.url }}" data-colorscheme="dark" data-num-posts="4" data-width="706"></div>
-    {% endif %}
-    {% include disqus.html %}
-
-  </div>
-
-  {% include socialicons.html %}
-
-  {% include whc-footer.html %}
-
-  {% include googleanalytics.html %}
-
+                  <div class=>{{ content }}</div>
+                </div>
+            </div>
+        </div>
+      {% include socialicons.html %}
+      {% include googleanalytics.html %}
       {% include whc-footer.html %}
       {% include whc-script-footer.html %}
     </body>
