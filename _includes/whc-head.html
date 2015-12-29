@@ -3,7 +3,7 @@
   {% include opengraph.html %}
   <meta name="google-site-verification" content="ppnr4OqPBZB6tRu29l_NzSGS9vm3rEOOBTqknIJxcKk" />
   <title>WebHosting.coop Foundation - Free Website Training Classes</title>
-  <meta name="description" content="Free Website Training Classes for all skill levels.">
+    <meta name="description" content="{% if site.summary %}{{ site.summary | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
