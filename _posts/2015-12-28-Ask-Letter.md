@@ -7,7 +7,6 @@ title_hidden: true
 fbcomments: false
 category: foundation
 permalink: give.html
-author: Jennifer Rowan
 tags: 
   - whc
   - nonprofit

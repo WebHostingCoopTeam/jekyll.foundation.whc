@@ -12,7 +12,7 @@
 	  {% unless page.title_hidden %}
 	    <h1>{{ page.title }}</h1>
 	    <info author="{{ page.author | The Webhosting coop Team }}">
-	      by {{ page.author | The Webhosting coop Team }}
+	      by {{ page.author }}
 	    </info>
 	    <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
 	      {{ page.date | date: "%b %d, %Y" }}
@@ -20,7 +20,7 @@
 	    {% endunless %}
 	    <div class="body posts">{{ content }}</div>
 	    <info author="{{ page.author | The Webhosting coop Team }}">
-	      -- {{ page.author | The Webhosting coop Team }}
+	      -- {{ page.author }}
 	    </info>
 	   <!-- <div class="post single"></div> -->
 	</div> 
