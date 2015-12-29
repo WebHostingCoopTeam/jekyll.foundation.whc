@@ -57,7 +57,7 @@ Here's where we stand so far:
 
 [Charity Navigator](http://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462953237#.Vn9U_SCgq00)
 
-[Guidestar](http://www.guidestar.org/organizations/46-2953237/webhosting-coop-foundation.aspx#financials)
+[Guidestar](http://www.guidestar.org/organizations/46-2953237/webhosting-coop-foundation.aspx)
 
 [IRS’s online tool](https://apps.irs.gov/app/eos/pub78Search.do?ein1=46-2953237&names=&city=&state=All...&country=US&deductibility=all&dispatchMethod=searchCharities&submitName=Search)
 
