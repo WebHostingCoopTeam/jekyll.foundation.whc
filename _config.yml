@@ -6,13 +6,14 @@
 donorbox_campaign_name: save-the-world
 donorboxcampaignname: save-the-world
 disqus_id: foundationwebhostingcoop
-name: test
+name: Foundation.Webhosting.coop 
 url: http://foundation.webhosting.coop 
 org_site: foundation.webhosting.coop 
 description: Webhosting.coop Foundation
+locale: eng-US
 author:
-  name: Josh Cox
-  email: josh@webhosting.coop
+  name: The Webhosting.coop Team 
+  email: coopadmin@webhosting.coop
 
 # Grunt handles images and assets.
 exclude: ['img', 'css', 'js', 'fonts',
