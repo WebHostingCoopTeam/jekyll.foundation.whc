@@ -25,7 +25,7 @@ tags:
 
 Looking for year end tax deductible giving options?  We have a choice that will allow you to support causes you care about.  
 
-Our http://foundation.webhosting.coop/ would be grateful for your support.
+Our [Webhosting.coop Foundation](http://foundation.webhosting.coop/) would be grateful for your support.
 
 Our mission:
 
