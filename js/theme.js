@@ -129,7 +129,7 @@ Version: 		2.0
         $("#mainMenu").find(".resp-active").removeClass("resp-active");
 
         if(!addActiveClass) {
-          $(this).parents("li").removeClass("resp-active");
+          $(this).parents("li").addClass("resp-active");
         }
 
         return;
@@ -196,8 +196,8 @@ Version: 		2.0
 
 					logo.stop(true, true);
 
-					$("body").removeClass("sticky-menu-active").css("padding-top", headerHeight);
-					flatParentItems.removeClass("sticky-menu-active");
+					$("body").addClass("sticky-menu-active").css("padding-top", headerHeight);
+					flatParentItems.addClass("sticky-menu-active");
 
 					logoWrapper.addClass("logo-sticky-active");
 
@@ -459,7 +459,7 @@ Version: 		2.0
 								filter = $this.parent().attr("data-option-value");
 
 							source.find("li.active").removeClass("active");
-							$this.parent().removeClass("active");
+							$this.parent().addClass("active");
 
 							destination.isotope({
 								filter: filter
@@ -477,7 +477,7 @@ Version: 		2.0
 								hash = (hashFilter == "." || hashFilter == ".*" ? "*" : hashFilter);
 
 							source.find("li.active").removeClass("active");
-							source.find("li[data-option-value='" + hash + "']").removeClass("active");
+							source.find("li[data-option-value='" + hash + "']").addClass("active");
 
 							destination.isotope({
 								filter: hash
@@ -517,7 +517,7 @@ Version: 		2.0
 					parentWrapper.find("section.toggle.active > label").trigger("click");
 				}
 
-				parentSection.toggleClass("meactive");
+				parentSection.toggleClass("active");
 
 				// Preview Paragraph
 				if(parentSection.find("> p").get(0)) {
@@ -538,7 +538,7 @@ Version: 		2.0
 					$(previewPar).animate({
 						height: previewParAnimateHeight
 					}, 350, function() {
-						$(this).removeClass("preview-active");
+						$(this).addClass("preview-active");
 					});
 
 					toggleContent.slideDown(350, function() {});
