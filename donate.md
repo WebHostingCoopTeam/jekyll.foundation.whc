@@ -12,7 +12,7 @@ When you donate to [foundation.webhosting.coop/donate](http://foundation.webhost
 
 How you can help:
 
-Make a tax-deductible donation right here on our website – you'll find both a strip donation box and a paypal donate button
+Make a tax-deductible donation right here on our website – you'll find both a stripe donation box and a paypal donate button
 
 or mail checks to:
 
