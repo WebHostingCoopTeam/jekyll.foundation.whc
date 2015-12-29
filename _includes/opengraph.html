@@ -3,6 +3,8 @@
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <meta property="og:image" content="{% if page.photo_url %}{{ page.photo_url }}{% else %}{{ page.avatar }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+<meta content="{{ page.description }}" name="description">
+<meta content="{{ page.description }}" name="twitter:description">
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:locale" content="{{ site.locale }}">
 {% if page.date %}
@@ -14,6 +16,3 @@
 {% endif %}
 <meta content="{{ page.title }}" name="twitter:title">
 <meta content="{{ site.org_name }}" property="og:site_name">
-<meta content="{{ page.description }}" name="description">
-<meta content="{{ page.description }}" property="og:description">
-<meta content="{{ page.description }}" name="twitter:description">
