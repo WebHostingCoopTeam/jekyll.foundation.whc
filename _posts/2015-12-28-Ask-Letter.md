@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: Give to the Webhosting.coop Foundation 
+description: Save the World with your Year End Tax-Deductible Donation
 published: true
 disqus: true
 title_hidden: true
