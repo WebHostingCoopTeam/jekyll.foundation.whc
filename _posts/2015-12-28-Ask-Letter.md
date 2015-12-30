@@ -16,7 +16,7 @@ tags:
 
 
 <div style="text-align:center">
-<img src="/images/image00.png"></img>
+<center><img class="img-responsive" src="/images/image00.png"></img></center>
 <hr>
 <h1><strong>SAVE THE WORLD</strong></h1>
 <h2>Sponsor a nonprofit's Information Technology</h2>
