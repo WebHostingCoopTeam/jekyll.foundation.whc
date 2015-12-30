@@ -8,10 +8,10 @@ donorboxcampaignname: save-the-world
 disqus_id: foundationwebhostingcoop
 name: Foundation.Webhosting.coop 
 url: http://foundation.webhosting.coop 
-logo: http://foundation.webhosting.coop/images/image00.png
+logo: http://foundation.webhosting.coop/images/whc-foundation-og-background.png
 org_site: foundation.webhosting.coop 
 description: Webhosting.coop Foundation
-locale: eng-US
+locale: en_US
 author:
   name: The Webhosting.coop Team 
   email: coopadmin@webhosting.coop
